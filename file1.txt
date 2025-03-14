@@ -1,0 +1,6 @@
+Name : Raghu
+Place : Bangalore
+DOB : 28-03-1994
+Pin code : 560026
+
+Line 1------->>>
